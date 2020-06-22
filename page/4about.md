@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<img src="123456.jpg" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0" />
+<img src="https://graph.baidu.com/thumb/1012119264,3147634263.jpg" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0" />
 
 ## 联系我
 

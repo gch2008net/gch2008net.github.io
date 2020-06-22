@@ -11,17 +11,17 @@ type: page
 
 ## 关于我
 
-<img src="https://graph.baidu.com/thumb/1012119264,3147634263.jpg" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0" />
+![](https://graph.baidu.com/thumb/1012119264,3147634263.jpg)
 
 ## 联系我
 
-##* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
+#* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
 * email：gch2008net@163.com
-##* [Weibo](http://weibo.com/3115521wh)
-##* [知乎](https://www.zhihu.com/people/gaohaoyang)
-##* [Facebook](https://www.facebook.com/gaohaoyang.water)
-##* [豆瓣](https://www.douban.com/people/42525035/)
-##* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+#* [Weibo](http://weibo.com/3115521wh)
+#* [知乎](https://www.zhihu.com/people/gaohaoyang)
+#* [Facebook](https://www.facebook.com/gaohaoyang.water)
+#* [豆瓣](https://www.douban.com/people/42525035/)
+#* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
 
 ## 友情链接
 
